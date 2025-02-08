@@ -1,0 +1,3 @@
+druglist = [”cyclophosphamide”, “bevacizumab”, “transtuzimab”]
+print(druglist)
+print(druglist[1])
